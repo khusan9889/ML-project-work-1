@@ -1,4 +1,4 @@
-# ML-project-work ([ 0 | 1 ] Core Team)
+# ML-project-work ( [ 0 | 1 ] Core Team )
  
  ### After several months of study we with [ 0 | 1 ] Core Team decided to refresh and strengthen knowledges in python libraries as numpy, pandas, matplotlib which was very beneficial to practice what we have learned during whole period since January.I can only say that: it was very helpful to understand the strengths and weaknesses and improve ourselves.
  
